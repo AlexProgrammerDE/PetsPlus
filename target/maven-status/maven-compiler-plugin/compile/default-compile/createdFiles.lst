@@ -1,0 +1,10 @@
+me\alexprogrammerde\petsplus\config\FileManager.class
+me\alexprogrammerde\petsplus\gui\MainMenu.class
+me\alexprogrammerde\petsplus\listener\PetClick.class
+me\alexprogrammerde\petsplus\listener\GUIActions.class
+me\alexprogrammerde\petsplus\utils\Permissions.class
+me\alexprogrammerde\petsplus\config\DatabaseManager.class
+me\alexprogrammerde\petsplus\config\LanguageManager.class
+me\alexprogrammerde\petsplus\config\ConfigHandler.class
+me\alexprogrammerde\petsplus\Main.class
+me\alexprogrammerde\petsplus\commands\MainCommand.class
